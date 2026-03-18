@@ -8,7 +8,7 @@
 
 ## 💻 Sobre
 
-Projeto feito no intuito de me apresentar, como desenvolvedor web front-end.
+Projeto feito no intuito de me apresentar, como desenvolvedora web front-end.
 
 ## 🤯 O site é composto por:
 
@@ -43,7 +43,7 @@ Neste projeto apliquei os seguintes pontos:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/lucyanovidio.png" width="100px" />
+      <img src="https://github.com/ganyxv.png" width="100px" />
     </td>
     <td>
       Feito por <a href="https://github.com/Gabriella">Gabriella.</a> 🙋🏿‍♂️
